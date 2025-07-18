@@ -48,9 +48,8 @@ This game is a client-side web application and does not require any complex inst
 
 Clone the repository (or download the files):
 
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe.git
+git clone https://github.com/minahil2674/tic-tac-toe.git
 
-(Replace YOUR_USERNAME with your actual GitHub username if you create a repository for this.)
 
 Navigate to the project directory:
 
