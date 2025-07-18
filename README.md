@@ -2,14 +2,14 @@
 
 A classic Tic Tac Toe game brought to life with modern web technologies, featuring engaging animations, responsive design, and a dynamic background.
 
-🚀 Technologies Used
+🚀 # Technologies Used
 HTML5: For the game structure and content.
 
 CSS3: For styling, animations, and responsive design.
 
 JavaScript (ES6+): For game logic, interactivity, and dynamic effects.
 
-✨ Features
+✨ #Features
 Classic Gameplay: Play against another player on a 3x3 grid.
 
 Winning Detection: Automatically detects horizontal, vertical, and diagonal wins.
@@ -43,7 +43,7 @@ If all boxes are filled and no player has won, the game is a draw.
 
 Click "New Game" or "Reset Game" to start over.
 
-⚙️ Installation and Setup
+⚙️# Installation and Setup
 This game is a client-side web application and does not require any complex installation or server setup.
 
 Clone the repository (or download the files):
